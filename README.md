@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Maria - [website]
 
-<!--
-**makarrma/makarrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a QA Software Engineer, who is passionate about learning about QA field.
+When I'm not working and not studying, you can see me taking pictures or planning my garden or just spending time with my family and dog in nature.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Languages & Tools:
+
+
+<br />
+<br />
+
+[linkedin]: https://linkedin.com/in/mari-makarova/
