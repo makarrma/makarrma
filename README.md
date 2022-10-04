@@ -1,3 +1,7 @@
+![header](https://user-images.githubusercontent.com/71404498/193715639-0ec698d9-2bee-44a8-a829-5475086d38b1.jpg)
+
+
+
 ### Hi there, I'm Maria :wave:     
 
 :small_orange_diamond: I'm a <strong>QA Software Engineer</strong>, who is passionate about learning in the QA field.       
