@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="email" width="20px" src="https://toppng.com/uploads/preview/orange-transparent-email-icon-red-email-icons-11563007385mpkiku3cqg.png"><photogradus@gmail.com>  
+<img align="left" alt="email" width="20px" src="https://toppng.com/uploads/preview/orange-transparent-email-icon-red-email-icons-11563007385mpkiku3cqg.png"><mariia.makarr@gmail.com>  
 <img align="left" alt="Linkedin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png">[Maria Makarova](https://www.linkedin.com/in/mari-makarova/) 
 
 ### Languages & Tools:
