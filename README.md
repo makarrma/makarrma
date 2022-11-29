@@ -5,7 +5,9 @@
 ### Hi there, I'm Maria :wave:     
 
 :small_orange_diamond: I'm a <strong>QA Software Engineer</strong>, who is passionate about learning in the QA field.       
-:small_orange_diamond: When I'm not working and not studying, you can see me taking pictures or planning my garden or just spending time with my family and dog in nature.<br>
+:small_orange_diamond: When I'm not working and not studying, you can see me taking pictures :camera: or planning my garden:seedling: or just spending time with my family and dog in nature.<br>
+## My CV
+[Link to my CV](https://drive.google.com/)
 
 ### Connect with me:
 
@@ -27,3 +29,9 @@
 
 > I have no special talent. I am only passionately curious.       
 *Albert Einstein*
+
+### Testing Documentation
+- [Test-Suites and Test-Cases](https://github.com/makarrma/test-cases)
+- [Bug-Reports](https://github.com/makarrma/bug-reports)
+- [SQL Queries](https://github.com/makarrma/SQL)
+- [Postman Collections](https://github.com/makarrma/postman)
